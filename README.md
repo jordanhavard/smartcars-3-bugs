@@ -1,8 +1,6 @@
 # smartCARS 3 Bug Reports
 This is the official bug report repository for smartCARS 3. You may report bugs relating to core app functionality, plugin functionality, development experience and make suggestions for new features.
 
-**Please do not report bugs relating to smartCARS 2**
-
 ## Reporting Bugs
 Before reporting a bug, you must verify that the bug is not caused by a plugin. To do this, please disable all unverified plugins (any plugin in the app that does not have the "Verified" pill), and try to reproduce the bug.
 
